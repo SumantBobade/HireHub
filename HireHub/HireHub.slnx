@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="hirehub.client/hirehub.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="HireHub.Server/HireHub.Server.csproj" />
+</Solution>
